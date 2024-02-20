@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px ;
+    box-sizing: border-box;
+    
+
+}
+header{
+    margin: 18px;
+    padding: 15px;
+    font-size: 34px;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(255, 127, 138);
+    height: 75px;
+    width: 1345px;
+    background-color: #977b68;
+    
+
+}
+table{
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+    width: 1345px;
+    height: 700px;
+    border-color: #08f51c;
+    background-color: blueviolet;
+    
+}
+table tr.color {
+
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-style:inherit;
+}
+h2{
+    font-size: 44px;
+    padding: 22px;
+}
+ul{
+    font-size: 19px;
+    margin:  0px 66px;
+    padding: 0px;
+    
+    
+}
